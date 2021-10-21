@@ -18,7 +18,7 @@
   <!--<img src="iph1.jpg" alt="Avatar" class="image">
   <img src="iph1.jpg" alt="Avatar" class="image">-->
   <div class="overlay">
-    <div class="text">Hello World</div>
+    <div class="text">Hello </div>
   </div>
 </div>
 
