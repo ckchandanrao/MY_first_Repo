@@ -105,7 +105,8 @@ The Apple One free trial includes only services that you are not currently using
 ₹99/month after free trial. One subscription per Family Sharing group. Offer is valid for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other terms apply.
 ₹99/month after free trial. No commitment. Plan automatically renews after trial until cancelled.
 ₹99/month after free trial. One subscription per Family Sharing group. Offer is valid for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other terms apply.
-“Desire” written by Pushkar Srivatsal and Tanya Nambiar.</p>
+“Desire” written by Pushkar Srivatsal and Tanya Nambiar.
+...........THANKING YOU..............</p>
 
 </div>
 
