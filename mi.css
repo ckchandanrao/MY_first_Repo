@@ -1,0 +1,204 @@
+body{
+  padding: 0;
+  margin:0;
+  font-family: sans-serif;
+}
+
+.firstblock,.firstblock1,.firstblock2,.firstblock3{
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top:0;
+}
+
+img{
+
+  width: 300%;
+  position: absolute;
+  left: 50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+  animation: zoom-out 3s linear infinite;
+}
+@keyframes zoom-out {
+  100%{
+    width: 100%;
+  }
+
+}
+
+.text{
+  width: 600px;
+  position: absolute;
+  top:200px;
+  left: 100px;
+  color: white;
+  animation: textup 12s linear infinite;
+  transform: translateY(100px);
+}
+
+@keyframes textup {
+  10%{
+    transform: translateY(0px);
+  }
+  100%{
+    transform: translateY(0px);
+  }
+
+}
+.text h1{
+  margin-bottom: 40px;
+
+}
+.text p{
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: 80px;
+}
+
+.text span{
+  background: red;
+  height: 1px;
+  width: 100px;
+  position: absolute;
+  left: 0;
+}
+
+
+.firstblock{
+  animation: b1 12s linear infinite;
+}
+
+.firstblock1{
+  animation: b2 12s linear infinite;
+}
+
+.firstblock2{
+  animation: b3 12s linear infinite;
+}
+
+.firstblock3{
+  animation: b4 12s linear infinite;
+}
+
+@keyframes b1 {
+  0%{
+    visibility: visible;
+
+  }
+  25%{
+    visibility: hidden;
+
+  }
+  50%{
+    visibility: hidden;
+
+  }
+  75%{
+    visibility: hidden;
+
+  }
+  100%{
+    visibility: visible;
+
+  }
+
+}
+
+
+
+
+@keyframes b2 {
+  0%{
+    visibility: hidden;
+
+  }
+  25%{
+    visibility: hidden;
+
+  }
+  50%{
+    visibility: visible;
+
+  }
+  75%{
+    visibility: hidden;
+
+  }
+  100%{
+    visibility: hidden;
+
+  }
+
+}
+
+
+
+@keyframes b3 {
+  0%{
+    visibility: hidden;
+
+  }
+  25%{
+    visibility: hidden;
+
+  }
+  50%{
+    visibility:hidden;
+
+  }
+  75%{
+    visibility: visible;
+
+  }
+  100%{
+    visibility: hidden;
+
+  }
+
+}
+
+
+@keyframes b4 {
+  0%{
+    visibility: hidden;
+
+  }
+  25%{
+    visibility: hidden;
+
+  }
+  50%{
+    visibility:hidden;
+
+  }
+  75%{
+    visibility: hidden;
+
+  }
+  100%{
+    visibility: visible;
+
+  }
+
+}
+
+.text1{
+  animation-delay: 0s;
+
+}
+.text2{
+  animation-delay: 3s;
+
+}
+
+.text3{
+  animation-delay: 6s;
+
+}
+
+.text4{
+  animation-delay: 9s;
+
+}

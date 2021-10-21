@@ -1,0 +1,220 @@
+
+
+
+body{
+
+  background: #1e1e1e;
+
+
+
+}
+
+.nav-area{
+  /*list-style: none;*/
+  display: inline-block;
+  background-color: black;
+  padding:3px;
+  width: 100%;
+
+}
+
+.nav-area li{
+  display: inline-block;
+
+}
+
+.nav-area li a{
+  color: #fff;
+	text-decoration: none;
+	padding: 5px 100px;
+	font-family: poppins;
+	font-size: 16px;
+	text-transform: uppercase;
+
+
+
+}
+
+.nav-area li a:hover {
+	background: black;
+  color:red;
+
+}
+
+.heading h1{
+  font-size: 50px;
+  font-style: normal;
+  font-family:  sans-serif;
+  color: 	#FFD700;
+  text-decoration: underline;
+  text-shadow: 10px 0px 10px black;
+  text-align: center;
+  text-decoration-color: grey;
+  margin-left: 500px;
+  text-decoration-style:  double;
+  /*animation-name: example;
+  animation-duration: 10s;*/
+
+
+
+}
+
+@keyframes example {
+
+  /*25%  {color: yellow;}
+  25%  {color: grey;}
+  25%  {color: red;}
+  25%  {color: brown;}
+  25%  {color: orange;}
+  50%  {color: aqua;}
+  100% {color: green;}
+  from {background-color: yellow;}
+  to {background-color: lightslategrey;}*/
+
+
+}
+.heading{
+  background-color: #141414;
+  display: flex;
+  width: 100%;
+
+  /*animation-name: example;
+  animation-duration: 5s;*/
+
+}
+.para1 center{
+  color: white;
+}
+.para1{
+  background-color: black;
+  padding: 1px;
+  width: 100%;
+
+}
+
+.img1  {
+  width: 30%;
+  background-color: white;
+  box-shadow: 10px 10px 39px blue;
+  margin-bottom: 15px;
+  float: right;
+  margin: 15px;
+
+
+
+}
+
+.img2  {
+  width: 30%;
+  background-color: white;
+  box-shadow: 10px 10px 39px blue;
+  margin-bottom: 15px;
+  float: right;
+  margin: 15px;
+
+
+
+}
+
+.img3  {
+  width: 30%;
+  background-color: white;
+  box-shadow: 10px 10px 39px blue;
+  margin-bottom: 15px;
+  float: right;
+  margin: 15px;
+
+
+
+
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.displayimg1:hover{
+  color:red;
+}
+
+.displayimg2:hover{
+  color:blue;
+}
+.displayimg3:hover{
+  color:green;
+}
+
+.b1{
+  background-color: blue;
+  color: white;
+  border-radius: 10px 20px 5px;
+  border:solid;
+  font-size: 23px;
+  font-style: normal;
+  font-family:  cursive;
+  font-weight: bolder;
+
+}
+
+.b2{
+  background-color: blue;
+  color: white;
+  border-radius: 10px 20px 5px;
+  border:solid;
+  font-size: 23px;
+  font-style: normal;
+  font-family:  cursive;
+  font-weight: bolder;
+}
+
+.b3{
+  background-color: blue;
+  color: white;
+  border-radius: 10px 20px 5px;
+  border:solid;
+  font-size: 23px;
+  font-style: normal;
+  font-family:  cursive;
+  font-weight: bolder;
+}
+
+.video{
+  margin-left:250px;
+
+}
+.container{
+  background-color: white;
+
+
+}
+.container h1{
+  font-size: 55px;
+  color: black;
+  font-style: normal;
+  font-stretch: extra-condensed;
+
+}
+.lastpara{
+  color: #F0E68C;
+}
+.nav-area .sb {
+  float: right;
+}
+
+.nav-area .sb button:hover {
+  background: #ccc;
+}
+
+
+.nav-area .sb button {
+  color: black;
+  float: right;
+  padding: 6px 10px;
+  margin-top: 1px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 1px;
+  border: none;
+  cursor: pointer;
+}

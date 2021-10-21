@@ -1,0 +1,78 @@
+body{
+  background:black;
+
+}
+* {
+  box-sizing: border-box;
+}
+img{
+  padding: 115px;
+}
+
+body {
+  font-family: Arial;
+  font-size: 17px;
+}
+
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img{
+  vertical-align: middle;
+
+
+}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+.laap1{
+  border-radius: 100px;
+  box-shadow: 10px 25px 30px blue;
+}
+.laap2{
+  border-radius: 100px;
+  box-shadow: 10px 25px 30px blue;
+}
+.laap3{
+  border-radius: 100px;
+  box-shadow: 10px 25px 30px blue;
+}
+.laap4{
+  border-radius: 140px;
+  margin-left: 350px;
+  box-shadow: 1px 25px 10px blue;
+  border: 5px solid #555
+}
+
+.laap5{
+  border-radius: 140px;
+  margin-left: 350px;
+  box-shadow: 1px 25px 10px blue;
+  border: 5px solid #555
+}
+
+.laap6{
+  border-radius: 140px;
+  margin-left: 350px;
+  box-shadow: 1px 25px 10px blue;
+  border: 5px solid #555
+}
+.lapimg b{
+  color:white;
+  font-size: 25px;
+}
+
+/*.a1 img:hover{
+  width: 50px;
+  background-color: green;
+}*/
